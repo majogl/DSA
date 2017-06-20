@@ -1,0 +1,4 @@
+﻿  main.cpp
+g:\backup 9-6-17\dsa\c++\dsa.h(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSA.vcxproj -> C:\Users\Majo\documents\visual studio 2017\Projects\DSA\Debug\DSA.exe
+  DSA.vcxproj -> C:\Users\Majo\documents\visual studio 2017\Projects\DSA\Debug\DSA.pdb (Partial PDB)
